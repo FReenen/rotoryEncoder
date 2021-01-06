@@ -1,3 +1,9 @@
+/** Rotory Encoder
+ *
+ * @author: Mats van Reenen <mail@matsvanreenen.nl>
+ * @license: MIT
+ */
+
 #define SENS0_PIN 2
 #define SENS1_PIN 3
 #define ANALOGOUT_PIN 11
